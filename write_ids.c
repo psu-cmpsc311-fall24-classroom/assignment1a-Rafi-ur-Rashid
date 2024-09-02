@@ -2,7 +2,7 @@
 
 int main() {
     char GITHUB_ID[] = "Fill_in_Your_Github_Id";
-    int STUDENT_ID = 123456;
+    char STUDENT_ID[] = "Fill_in_Your_Student_Id";
 
     return 0;
 }
